@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Climafix",
+  title: "Climafix Summit",
   description: "Climafix Summit 2025 - Innovating for a Sustainable Future",
 };
 
